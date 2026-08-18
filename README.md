@@ -1,6 +1,6 @@
 # Bright-TV-User-Viewership-Data-Analysis
 This project is mainly for analyses of Bright TV User profile together with their viewership behavivour to help the platform figure out how to get more people watching.
-<img width="120" height="150" alt="image" src="https://github.com/user-attachments/assets/8998fff0-b525-4910-a014-2cd3c452d779" />
+<img width="50" height="30" alt="image" src="https://github.com/user-attachments/assets/8998fff0-b525-4910-a014-2cd3c452d779" />
 # The Brief
 BrightTV wanted to boost subscriber retention and get more eyeballs on the platform.
 # The Question ?
