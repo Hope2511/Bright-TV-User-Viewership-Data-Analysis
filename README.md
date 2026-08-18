@@ -7,10 +7,10 @@ What's actually driving people to watch , and how do we get them to watch more.
 # The Plan 
 Is to clean,filter and arrange subscriber information according to the viewership records with demographic attributes and produce a single analytical dataset that can be used for reporting and dashboard creation.
 # Tools Used
-Miro
-Canvas
-Databricks
-Excel and Google sheets 
-Data Studio
-Power BI
+Miro,
+Canvas,
+Databricks,
+Excel and Google sheets,
+Data Studio,
+Power BI,
 Lovable
